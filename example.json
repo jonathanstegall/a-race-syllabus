@@ -1,0 +1,52 @@
+1: {
+	"ids": {
+		"8675309": {
+			"type": "local",
+		},
+		"9781234567897": {
+			"type": "isbn-13",
+		},
+		"978123456789712": {
+			"type": "isbn-15",
+		},
+		"9781234567": {
+			"type": "isbn-10",
+		}
+	},
+	"external_data": {
+		"1": {
+			"source": "amazon",
+			"url": "https:whatever",
+		},
+		"2": {
+			"source": "ISBNdb",
+			"url": "https://api.isbndb.com/book/9780134093413?X-API-KEY=YOUR_REST_KEY",
+		}
+	},
+	"book_data": {
+		"title":"whatever",
+		"format":"whatever",
+		"language":"whatever",
+		"publish_date":"whatever",
+		"title":"whatever",
+		"edition":"whatever",
+		"pages":"whatever",
+		"dimensions":"whatever",
+		"overview":"whatever",
+		"excerpt":"whatever",
+		"title":"whatever",
+		"authors": {
+			"name":"whoever",
+			"name":"whoever",
+		},
+		"editors": {
+			"name":"whoever",
+			"name":"whoever",
+		},
+		"publisher": {
+			"name":"whatever",
+			"location":"whatever",
+			"category":"whatever",
+		}
+	}
+}
