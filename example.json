@@ -30,6 +30,9 @@
 		"history"
 		"politics"
 	},
+	"tags": {
+		"martin-luther-king"
+	},
 	"data": {
 		"title":"whatever",
 		"format":"whatever",
