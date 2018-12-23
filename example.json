@@ -23,7 +23,14 @@
 			"url": "https://api.isbndb.com/book/9780134093413?X-API-KEY=YOUR_REST_KEY",
 		}
 	},
-	"book_data": {
+	"media_types": {
+		"picture_books"
+	},
+	"topics": {
+		"history"
+		"politics"
+	},
+	"data": {
 		"title":"whatever",
 		"format":"whatever",
 		"language":"whatever",
